@@ -177,7 +177,7 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com/?user=azizsimx&theme=transparent&hide_border=true&ring=6A11CB&fire=2575FC&currStreakLabel=2575FC&sideLabels=6A11CB&currStreakNum=2575FC&sideNums=6A11CB&dates=8B8B9E" alt="GitHub streak" width="560" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizsimx&bg_color=00000000&color=8B8B9E&line=2575FC&point=6A11CB&area=true&area_color=6A11CB&hide_border=true&title_color=2575FC&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/2575FC/azizsimx" alt="Contribution calendar" width="100%" />
 
 </div>
 
