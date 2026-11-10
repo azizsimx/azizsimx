@@ -172,7 +172,7 @@ flowchart LR
 ---
 
 <!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
-<!-- No setup needed: these images are generated live from your public GitHub activity -->
+<!-- These read your PUBLIC activity: your profile must not be set to private -->
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=azizsimx&theme=transparent&hide_border=true&ring=6A11CB&fire=2575FC&currStreakLabel=2575FC&sideLabels=6A11CB&currStreakNum=2575FC&sideNums=6A11CB&dates=8B8B9E" alt="GitHub streak" width="560" />
