@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation%20%E2%80%A2%20ML&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation%20%E2%80%A2%20ML&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
 
 <a href="https://azizsimx.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=26D0CE&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/PhD%20Scholar-SNBNCBS%2C%20Kolkata-1A2980?style=flat-square&labelColor=0B1120" alt="PhD Scholar at SNBNCBS" />
-  <img src="https://img.shields.io/badge/Focus-Amyloid%20Aggregation%20%26%20Inhibition-2563EB?style=flat-square&labelColor=0B1120" alt="Focus" />
-  <img src="https://img.shields.io/badge/INSPIRE-Fellow-26D0CE?style=flat-square&labelColor=0B1120" alt="INSPIRE Fellow" />
-  <img src="https://komarev.com/ghpvc/?username=azizsimx&style=flat-square&color=26D0CE&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/PhD%20Scholar-SNBNCBS%2C%20Kolkata-6A11CB?style=flat-square&labelColor=1E1B4B" alt="PhD Scholar at SNBNCBS" />
+  <img src="https://img.shields.io/badge/Focus-Amyloid%20Aggregation%20%26%20Inhibition-2575FC?style=flat-square&labelColor=1E1B4B" alt="Focus" />
+  <img src="https://img.shields.io/badge/INSPIRE-Fellow-4F46E5?style=flat-square&labelColor=1E1B4B" alt="INSPIRE Fellow" />
+  <img src="https://komarev.com/ghpvc/?username=azizsimx&style=flat-square&color=2575FC&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
@@ -110,8 +110,8 @@ flowchart LR
 > **Mechanistic Role of Different Functional Groups in Inhibiting Tryptophan Self-Assembly: Comparison between Aromatic and Nonaromatic Hydroxyl Moiety-Rich Chemical Compounds**<br/>
 > **Abdul Aziz Mandal**, Sudipta Mitra, Suman Chakrabarty, Ranjit Biswas\*<br/>
 > *The Journal of Physical Chemistry B* **2026**, 130 (35), 8794–8804<br/>
-> <a href="https://doi.org/10.1021/acs.jpcb.6c03238"><img src="https://img.shields.io/badge/DOI-10.1021%2Facs.jpcb.6c03238-2563EB?style=flat-square&labelColor=0B1120" alt="DOI" /></a>
-> <img src="https://img.shields.io/badge/First%20Author-★-26D0CE?style=flat-square&labelColor=0B1120" alt="First author" />
+> <a href="https://doi.org/10.1021/acs.jpcb.6c03238"><img src="https://img.shields.io/badge/DOI-10.1021%2Facs.jpcb.6c03238-2575FC?style=flat-square&labelColor=1E1B4B" alt="DOI" /></a>
+> <img src="https://img.shields.io/badge/First%20Author-★-4F46E5?style=flat-square&labelColor=1E1B4B" alt="First author" />
 
 ### 🎤 Talks & Posters
 
@@ -171,11 +171,13 @@ flowchart LR
 
 ---
 
-<!-- ═══════════════════════════════  GITHUB METRICS  ═══════════════════════════════ -->
-<!-- Generated daily by .github/workflows/metrics.yml into the "metrics" branch -->
+<!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
+<!-- No setup needed: these images are generated live from your public GitHub activity -->
 <div align="center">
 
-<img width="540" src="https://raw.githubusercontent.com/azizsimx/azizsimx/metrics/metrics.svg" alt="GitHub metrics: repositories, top languages and contribution calendar" />
+<img src="https://streak-stats.demolab.com/?user=azizsimx&theme=transparent&hide_border=true&ring=6A11CB&fire=2575FC&currStreakLabel=2575FC&sideLabels=6A11CB&currStreakNum=2575FC&sideNums=6A11CB&dates=8B8B9E" alt="GitHub streak" width="560" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizsimx&bg_color=00000000&color=8B8B9E&line=2575FC&point=6A11CB&area=true&area_color=6A11CB&hide_border=true&title_color=2575FC&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -202,7 +204,7 @@ Curated for students starting out in molecular simulation:
 <p><i>Open to research collaborations and discussions on computational biophysical chemistry,<br/>amyloid aggregation, enhanced sampling and ML for molecular systems.</i></p>
 
 <a href="mailto:abdulazizcaluniv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://azizsimx.github.io/"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+<a href="https://azizsimx.github.io/"><img src="https://img.shields.io/badge/Website-2575FC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
 <a href="https://scholar.google.com/citations?user=kKbvQUEAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://orcid.org/0009-0007-1778-5261"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <br/>
@@ -214,23 +216,9 @@ Curated for students starting out in molecular simulation:
 
 </div>
 
-<!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
-<!-- Generated by .github/workflows/snake.yml into the "output" branch -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" alt="Snake eating my contribution graph" />
-</picture>
-
-<sub>My research website lives at <a href="https://azizsimx.github.io/">azizsimx.github.io</a>.</sub>
-
-</div>
-
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
 
 </div>
