@@ -75,6 +75,29 @@ Using simulation-derived features and machine learning to screen and rank candid
 
 ---
 
+## Connect
+
+<div align="center">
+  <p>
+    I am open to collaborations around molecular simulation, protein/peptide aggregation, small-molecule inhibitor design, and ML for drug discovery.
+  </p>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://azizsimx.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://orcid.org/YOUR-ORCID-ID">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=90&section=footer" alt="" />
