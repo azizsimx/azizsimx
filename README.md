@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:1E3A8A,70:2563EB,100:06B6D4&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation%20%E2%80%A2%20ML&descAlignY=57&descSize=17&descColor=E0F2FE" width="100%" alt="Abdul Aziz Mandal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation%20%E2%80%A2%20ML&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
 
 <a href="https://azizsimx.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=26D0CE&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/PhD%20Scholar-SNBNCBS%2C%20Kolkata-1E3A8A?style=flat-square&labelColor=0B1120" alt="PhD Scholar at SNBNCBS" />
+  <img src="https://img.shields.io/badge/PhD%20Scholar-SNBNCBS%2C%20Kolkata-1A2980?style=flat-square&labelColor=0B1120" alt="PhD Scholar at SNBNCBS" />
   <img src="https://img.shields.io/badge/Focus-Amyloid%20Aggregation%20%26%20Inhibition-2563EB?style=flat-square&labelColor=0B1120" alt="Focus" />
-  <img src="https://img.shields.io/badge/INSPIRE-Fellow-06B6D4?style=flat-square&labelColor=0B1120" alt="INSPIRE Fellow" />
-  <img src="https://komarev.com/ghpvc/?username=azizsimx&style=flat-square&color=38BDF8&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/INSPIRE-Fellow-26D0CE?style=flat-square&labelColor=0B1120" alt="INSPIRE Fellow" />
+  <img src="https://komarev.com/ghpvc/?username=azizsimx&style=flat-square&color=26D0CE&label=Profile+views" alt="Profile views" />
 </p>
 
 </div>
@@ -111,7 +111,7 @@ flowchart LR
 > **Abdul Aziz Mandal**, Sudipta Mitra, Suman Chakrabarty, Ranjit Biswas\*<br/>
 > *The Journal of Physical Chemistry B* **2026**, 130 (35), 8794–8804<br/>
 > <a href="https://doi.org/10.1021/acs.jpcb.6c03238"><img src="https://img.shields.io/badge/DOI-10.1021%2Facs.jpcb.6c03238-2563EB?style=flat-square&labelColor=0B1120" alt="DOI" /></a>
-> <img src="https://img.shields.io/badge/First%20Author-★-06B6D4?style=flat-square&labelColor=0B1120" alt="First author" />
+> <img src="https://img.shields.io/badge/First%20Author-★-26D0CE?style=flat-square&labelColor=0B1120" alt="First author" />
 
 ### 🎤 Talks & Posters
 
@@ -231,6 +231,6 @@ Curated for students starting out in molecular simulation:
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:2563EB,65:1E3A8A,100:0B1120&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
 
 </div>
