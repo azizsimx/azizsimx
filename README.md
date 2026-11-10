@@ -138,44 +138,60 @@ flowchart LR
 | **VIBGYOR Color Studio** | Explore, create and manage colour schemes in the browser | [Open ↗](https://azizsimx.github.io/VIBGYOR.html) |
 | **[azizsimx.github.io](https://azizsimx.github.io/)** | My research website: publications, tools and curated MD tutorials | [Visit ↗](https://azizsimx.github.io/) |
 
-<!-- ═══════════════════════════════  TOOLS  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  TECH STACK  ═══════════════════════════════ -->
 
-## 🛠️ Toolbox
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="26%" valign="top"><b>⚙️ Simulation</b></td>
-<td>
-<img src="https://img.shields.io/badge/GROMACS-1F6FB2?style=for-the-badge" alt="GROMACS" />
-<img src="https://img.shields.io/badge/AMBER-B71C1C?style=for-the-badge" alt="AMBER" />
-<img src="https://img.shields.io/badge/PLUMED-E65100?style=for-the-badge" alt="PLUMED" />
-<img src="https://img.shields.io/badge/AutoDock-2E7D32?style=for-the-badge" alt="AutoDock" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>🔍 Analysis & Visualization</b></td>
-<td>
-<img src="https://img.shields.io/badge/MDAnalysis-F57C00?style=for-the-badge" alt="MDAnalysis" />
-<img src="https://img.shields.io/badge/VMD-4B8BBE?style=for-the-badge" alt="VMD" />
-<img src="https://img.shields.io/badge/PyMOL-00897B?style=for-the-badge" alt="PyMOL" />
-<img src="https://img.shields.io/badge/ChimeraX-6A1B9A?style=for-the-badge" alt="ChimeraX" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>🤖 ML & Scientific Computing</b></td>
-<td>
-<img src="https://img.shields.io/badge/DeePMD--kit-1E3A8A?style=for-the-badge" alt="DeePMD-kit" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>💻 Languages & Workflow</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,julia,bash,linux,git,github&theme=dark" alt="Python, Julia, Bash, Linux, Git, GitHub" />
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/GROMACS-1F6FB2?style=flat-square" alt="GROMACS" />
+  <img src="https://img.shields.io/badge/AMBER-B71C1C?style=flat-square" alt="AMBER" />
+  <img src="https://img.shields.io/badge/PLUMED-E65100?style=flat-square" alt="PLUMED" />
+  <img src="https://img.shields.io/badge/AutoDock-2E7D32?style=flat-square" alt="AutoDock" />
+  <img src="https://img.shields.io/badge/CHARMM--GUI-37474F?style=flat-square" alt="CHARMM-GUI" />
+  <img src="https://img.shields.io/badge/Packmol-5D4037?style=flat-square" alt="Packmol" />
+  <img src="https://img.shields.io/badge/gmx__MMPBSA-0E7490?style=flat-square" alt="gmx_MMPBSA" />
+  <br />
+  <img src="https://img.shields.io/badge/MDAnalysis-F57C00?style=flat-square" alt="MDAnalysis" />
+  <img src="https://img.shields.io/badge/VMD-4B8BBE?style=flat-square" alt="VMD" />
+  <img src="https://img.shields.io/badge/PyMOL-00897B?style=flat-square" alt="PyMOL" />
+  <img src="https://img.shields.io/badge/ChimeraX-6A1B9A?style=flat-square" alt="ChimeraX" />
+  <img src="https://img.shields.io/badge/DeePMD--kit-1E3A8A?style=flat-square" alt="DeePMD-kit" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/HTML%20%2F%20JS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML / JS" />
+</p>
+
+---
+
+<!-- ═══════════════════════════════  GITHUB METRICS  ═══════════════════════════════ -->
+<!-- Generated daily by .github/workflows/metrics.yml into the "metrics" branch -->
+<div align="center">
+
+<img width="540" src="https://raw.githubusercontent.com/azizsimx/azizsimx/metrics/metrics.svg" alt="GitHub metrics: repositories, top languages and contribution calendar" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════  RESOURCES  ═══════════════════════════════ -->
+
+### 📚 Learning & Resources
+
+Curated for students starting out in molecular simulation:
+[MD tutorials & force-field tools](https://azizsimx.github.io/) ·
+[VAMD trajectory viewer](https://azizsimx.github.io/vamd.html) ·
+[Figure Palette Lab](https://azizsimx.github.io/Palette_Lab.html) ·
+[All repositories](https://github.com/azizsimx?tab=repositories)
+
+---
 
 <!-- ═══════════════════════════════  CONNECT  ═══════════════════════════════ -->
 
@@ -195,6 +211,20 @@ flowchart LR
 <a href="https://x.com/abdulazizmandal/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 <sub>📍 Department of Chemical & Biological Sciences, S. N. Bose National Centre for Basic Sciences, Kolkata, India</sub>
+
+</div>
+
+<!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
+<!-- Generated by .github/workflows/snake.yml into the "output" branch -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+<sub>My research website lives at <a href="https://azizsimx.github.io/">azizsimx.github.io</a>.</sub>
 
 </div>
 
