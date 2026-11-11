@@ -208,9 +208,6 @@ flowchart LR
 <a href="https://www.researchgate.net/profile/Abdul-Mandal"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 <a href="https://www.linkedin.com/in/abdul-aziz-mandal-804a48206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/abdulazizmandal/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-<sub>📍 Department of Chemical & Biological Sciences, S. N. Bose National Centre for Basic Sciences, Kolkata, India</sub>
-
 </div>
 
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
