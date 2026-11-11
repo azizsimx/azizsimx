@@ -25,8 +25,7 @@
 <td width="58%" valign="top">
 
 I'm a **Research Scholar (PhD)** in Computational (Bio)Physical Chemistry at the
-**S. N. Bose National Centre for Basic Sciences (SNBNCBS)**, Kolkata, working with
-**Prof. Ranjit Biswas**.
+**S. N. Bose National Centre for Basic Sciences (SNBNCBS)**, Kolkata.
 
 My research uses **atomistic molecular dynamics** and **statistical mechanics** to understand
 molecular aggregation pathways in disease-linked peptide and protein systems, and how
@@ -38,7 +37,7 @@ molecular aggregation pathways in disease-linked peptide and protein systems, an
 
 **🔭 Currently**
 - Inhibition of amyloid self-assembly by small molecules
-- Free-energy landscapes with metadynamics & OPES
+- Free-energy landscapes with Umbrella Sampling & Metadynamics
 - ML potentials (DeePMD) for biomolecular systems
 
 **🎓 Education**
@@ -64,7 +63,7 @@ molecular aggregation pathways in disease-linked peptide and protein systems, an
 <td width="33%" valign="top" align="center">
 <h3>⛰️</h3>
 <b>Enhanced Sampling & Free Energy</b><br/>
-<sub>Metadynamics, OPES, replica exchange, umbrella sampling and MBAR for free-energy landscapes</sub>
+<sub>Metadynamics, replica exchange, umbrella sampling and MBAR for free-energy landscapes</sub>
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🤖</h3>
@@ -95,9 +94,9 @@ molecular aggregation pathways in disease-linked peptide and protein systems, an
 
 ```mermaid
 flowchart LR
-    A["🧪 System setup<br/>CHARMM-GUI · Packmol"] --> B["🎯 Docking<br/>AutoDock"]
+    A["🧪 System setup<br/>Gromacs · Packmol"] --> B["🎯 Docking<br/>AutoDock"]
     B --> C["⚙️ All-atom MD<br/>GROMACS · AMBER"]
-    C --> D["⛰️ Enhanced sampling<br/>PLUMED · OPES · MetaD"]
+    C --> D["⛰️ Enhanced sampling<br/>PLUMED · Umbrella Sampling · MetaD"]
     D --> E["📊 Analysis<br/>contacts · PMF · MM-PBSA"]
     E --> F["🤖 ML<br/>DeePMD · models"]
     F -. insight .-> C
