@@ -139,32 +139,38 @@ flowchart LR
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/GROMACS-1F6FB2?style=flat-square" alt="GROMACS" />
-  <img src="https://img.shields.io/badge/AMBER-B71C1C?style=flat-square" alt="AMBER" />
-  <img src="https://img.shields.io/badge/PLUMED-E65100?style=flat-square" alt="PLUMED" />
-  <img src="https://img.shields.io/badge/AutoDock-2E7D32?style=flat-square" alt="AutoDock" />
-  <img src="https://img.shields.io/badge/CHARMM--GUI-37474F?style=flat-square" alt="CHARMM-GUI" />
-  <img src="https://img.shields.io/badge/Packmol-5D4037?style=flat-square" alt="Packmol" />
-  <img src="https://img.shields.io/badge/gmx__MMPBSA-0E7490?style=flat-square" alt="gmx_MMPBSA" />
-  <br />
-  <img src="https://img.shields.io/badge/MDAnalysis-F57C00?style=flat-square" alt="MDAnalysis" />
-  <img src="https://img.shields.io/badge/VMD-4B8BBE?style=flat-square" alt="VMD" />
-  <img src="https://img.shields.io/badge/PyMOL-00897B?style=flat-square" alt="PyMOL" />
-  <img src="https://img.shields.io/badge/ChimeraX-6A1B9A?style=flat-square" alt="ChimeraX" />
-  <img src="https://img.shields.io/badge/DeePMD--kit-1E3A8A?style=flat-square" alt="DeePMD-kit" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/HTML%20%2F%20JS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML / JS" />
-</p>
+**⚙️ Simulation and sampling**
+
+![GROMACS](https://img.shields.io/badge/GROMACS-1F6FB2?style=flat-square)
+![AMBER](https://img.shields.io/badge/AMBER-B71C1C?style=flat-square)
+![PLUMED](https://img.shields.io/badge/PLUMED-E65100?style=flat-square)
+![Packmol](https://img.shields.io/badge/Packmol-5D4037?style=flat-square)
+![gmx_MMPBSA](https://img.shields.io/badge/gmx__MMPBSA-0E7490?style=flat-square)
+
+**🔍 Analysis and visualization**
+
+![MDAnalysis](https://img.shields.io/badge/MDAnalysis-F57C00?style=flat-square)
+![VMD](https://img.shields.io/badge/VMD-4B8BBE?style=flat-square)
+![PyMOL](https://img.shields.io/badge/PyMOL-00897B?style=flat-square)
+![ChimeraX](https://img.shields.io/badge/ChimeraX-6A1B9A?style=flat-square)
+
+**🤖 Scientific computing**
+![HPC / SLURM](https://img.shields.io/badge/HPC%20%2F%20SLURM-444444?style=flat-square&logo=linux&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML / JS](https://img.shields.io/badge/HTML%20%2F%20JS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**🧰 Tools and workflow**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
