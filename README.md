@@ -155,6 +155,7 @@ flowchart LR
 ![ChimeraX](https://img.shields.io/badge/ChimeraX-6A1B9A?style=flat-square)
 
 **🤖 Scientific computing**
+
 ![HPC / SLURM](https://img.shields.io/badge/HPC%20%2F%20SLURM-444444?style=flat-square&logo=linux&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
