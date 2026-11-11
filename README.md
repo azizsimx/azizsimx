@@ -219,6 +219,18 @@ flowchart LR
 </div>
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/azizsimx/azizsimx/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+</div>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
