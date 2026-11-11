@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computational%20(Bio)Physical%20Chemistry%20%E2%80%A2%20MD%20Simulation%20%E2%80%A2%20ML&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
 
 <a href="https://azizsimx.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
@@ -218,8 +218,8 @@ flowchart LR
 
 </div>
 
-<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
+<!-- Drawn by .github/workflows/snake.yml into the "output" branch -->
 <div align="center">
 
 <picture>
@@ -230,7 +230,7 @@ flowchart LR
 
 </div>
 
-
+<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer&text=Simulate%20%E2%80%A2%20Understand%20%E2%80%A2%20Design&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
