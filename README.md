@@ -110,8 +110,6 @@ flowchart LR
 > **Abdul Aziz Mandal**, Sudipta Mitra, Suman Chakrabarty, Ranjit Biswas\*<br/>
 > *The Journal of Physical Chemistry B* **2026**, 130 (35), 8794–8804<br/>
 > <a href="https://doi.org/10.1021/acs.jpcb.6c03238"><img src="https://img.shields.io/badge/DOI-10.1021%2Facs.jpcb.6c03238-2575FC?style=flat-square&labelColor=1E1B4B" alt="DOI" /></a>
-> <img src="https://img.shields.io/badge/First%20Author-★-4F46E5?style=flat-square&labelColor=1E1B4B" alt="First author" />
-
 ### 🎤 Talks & Posters
 
 | Date | Event | Type |
