@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Abdul%20Aziz%20Mandal&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Senior%20Research%20Fellow%20%E2%80%A2%20Computational%20(Bio)Physical%20Chemistry&descAlignY=57&descSize=17" width="100%" alt="Abdul Aziz Mandal" />
 
 <a href="https://azizsimx.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=Decoding+life+at+the+molecular+level;Amyloid+aggregation+%26+its+inhibition;Molecular+dynamics+%2B+enhanced+sampling;Machine+learning+for+biomolecular+systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=2575FC&center=true&vCenter=true&width=720&lines=Decoding+Life+at+the+Molecular+Level;Amyloid+Aggregation+%26+its+Inhibition;Molecular+Dynamics+%2B+Enhanced+Sampling;Machine+Learning+for+Biomolecular+Systems" alt="Typing intro" />
 </a>
 
 <p>
