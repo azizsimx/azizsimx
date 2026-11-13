@@ -121,7 +121,7 @@ flowchart LR
 ### 🏅 Honours
 
 - 🏆 **Best Poster Award** — Frontier Research in Basic Sciences, IEM Gurukul Campus (2026)
-- 🎓 **INSPIRE Fellowship (JRF)** — for doctoral research at SNBNCBS (2023)
+- 🎓 **INSPIRE Fellowship (SRF)** — for doctoral research at SNBNCBS (2023)
 - ⭐ **INSPIRE Scholarship** — top 1% in the Higher Secondary Examination, West Bengal (2017)
 
 <!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
