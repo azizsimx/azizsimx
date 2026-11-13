@@ -168,9 +168,11 @@ flowchart LR
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML / JS](https://img.shields.io/badge/HTML%20%2F%20JS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**🧰 Tools and workflow**
+**🧰 Operating Systems & Scientific Workflow**
 
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
