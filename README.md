@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="Abdul Aziz Mandal, Computational (Bio)Physical Chemistry: animated banner, a molecule morphing into a network" src="assets/banner-light.svg" width="100%">
 </picture>
 <p align="center">
