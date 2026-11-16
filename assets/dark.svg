@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" role="img" aria-label="Abdul Aziz Mandal, Computational (Bio)Physical Chemistry">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B14"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<radialGradient id="ba"><stop offset="0" stop-color="#7C3AED" stop-opacity=".45"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+<radialGradient id="bb"><stop offset="0" stop-color="#2563EB" stop-opacity=".45"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+<radialGradient id="gl"><stop offset="0" stop-color="#A78BFA" stop-opacity=".55"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+<linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="700" y2="0"><stop offset="0" stop-color="#C4B5FD"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#22D3EE"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-120 0;120 0;-120 0" dur="8s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="cv" x1="0" x2="1"><stop offset="0" stop-color="#C4B5FD"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity=".05"/></pattern>
+<clipPath id="k"><rect class="t" x="50" y="262" width="560" height="110"/></clipPath>
+</defs>
+<style>
+.f{animation:fi 1s ease-out both}
+.t{transform-origin:50px 0;animation:ty 3.2s steps(26) .9s both}
+.c{animation:bl 1s step-end infinite}
+.ln{stroke-dasharray:240;stroke-dashoffset:240;animation:dr 1.4s .5s ease-out forwards}
+.cv{stroke-dasharray:420;stroke-dashoffset:420;animation:dr 2.4s .8s ease-out forwards}
+.bA{animation:fa 12s ease-in-out infinite alternate}.bB{animation:fb 14s ease-in-out infinite alternate}
+.g{animation:gp 7s cubic-bezier(.6,0,.3,1) infinite alternate}
+.hb{animation:gp 7s cubic-bezier(.6,0,.3,1) infinite alternate}
+@keyframes fi{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes ty{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes bl{50%{opacity:0}}
+@keyframes dr{to{stroke-dashoffset:0}}
+@keyframes fa{to{transform:translate(-60px,40px)}}@keyframes fb{to{transform:translate(50px,-30px)}}
+@keyframes gp{0%,45%{opacity:0}85%,100%{opacity:1}}
+@keyframes a0{0%,15%{transform:translate(752px,82px) rotate(-25deg)}70%,100%{transform:translate(787px,118px) rotate(180deg)}}.m0{animation:a0 7s cubic-bezier(.6,0,.3,1) infinite alternate}@keyframes a1{0%,15%{transform:translate(958px,88px) rotate(40deg)}70%,100%{transform:translate(874px,118px) rotate(0deg)}}.m1{animation:a1 7s cubic-bezier(.6,0,.3,1) infinite alternate}@keyframes a2{0%,15%{transform:translate(962px,252px) rotate(-60deg)}70%,100%{transform:translate(787px,186px) rotate(180deg)}}.m2{animation:a2 7s cubic-bezier(.6,0,.3,1) infinite alternate}@keyframes a3{0%,15%{transform:translate(724px,250px) rotate(70deg)}70%,100%{transform:translate(874px,186px) rotate(0deg)}}.m3{animation:a3 7s cubic-bezier(.6,0,.3,1) infinite alternate}@keyframes a4{0%,15%{transform:translate(890px,262px) rotate(15deg)}70%,100%{transform:translate(830px,250px) rotate(0deg)}}.m4{animation:a4 7s cubic-bezier(.6,0,.3,1) infinite alternate}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.t{transform:none}.ln,.cv{stroke-dashoffset:0}.g,.hb{opacity:1}}
+</style>
+<rect width="1000" height="420" fill="url(#bg)"/>
+<rect width="1000" height="420" fill="url(#dots)"/>
+<g class="bA"><circle cx="840" cy="120" r="230" fill="url(#ba)"/></g>
+<g class="bB"><circle cx="120" cy="400" r="220" fill="url(#bb)"/></g>
+
+<!-- left: identity -->
+<g class="f"><rect x="50" y="42" width="290" height="30" rx="15" fill="#1F2937"/>
+<circle cx="68" cy="57" r="5" fill="#22D3EE"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="82" y="62" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.5" fill="#C4B5FD">SNBNCBS · KOLKATA · INDIA</text></g>
+<text x="48" y="150" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="70" font-weight="800" fill="url(#ng)" class="f" style="animation-delay:.15s">Abdul Aziz Mandal</text>
+<text x="52" y="200" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="600" fill="#E5E7EB" class="f" style="animation-delay:.35s">Computational (Bio)Physical Chemistry</text>
+<line class="ln" x1="52" y1="228" x2="292" y2="228" stroke="url(#cv)" stroke-width="4" stroke-linecap="round"/>
+<g clip-path="url(#k)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="32">
+<text x="52" y="300" fill="#9CA3AF"><tspan fill="#A78BFA" font-weight="700">&gt;</tspan> Physical Chemist</text>
+<text x="52" y="350" fill="#9CA3AF"><tspan fill="#A78BFA" font-weight="700">&gt;</tspan> Senior Research Fellow<tspan class="c" fill="#A78BFA">▍</tspan></text></g>
+
+<!-- right: tryptophan self-assembly -->
+<circle class="g" cx="830" cy="180" r="115" fill="url(#gl)"/>
+<g class="hb" stroke="#22D3EE" stroke-width="1.6" stroke-dasharray="3 5" opacity=".7">
+<line x1="787" y1="118" x2="874" y2="118"/><line x1="787" y1="186" x2="874" y2="186"/><line x1="787" y1="118" x2="787" y2="186"/><line x1="874" y1="118" x2="874" y2="186"/><line x1="830" y1="250" x2="787" y2="186"/><line x1="830" y1="250" x2="874" y2="186"/></g>
+<g class="m0"><g fill="none" stroke="#A78BFA" stroke-width="2.6" stroke-linejoin="round"><path d="M17.3,10.0 L0.0,20.0 L-17.3,10.0 L-17.3,-10.0 L-0.0,-20.0 L17.3,-10.0 Z"/><path d="M17.3,10.0 L36.3,16.2 L48.1,0.0 L36.3,-16.2 L17.3,-10.0 Z"/><circle r="11.0" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/></g><circle cx="36.3" cy="-16.2" r="4.2" fill="#22D3EE"/></g><g class="m1"><g fill="none" stroke="#60A5FA" stroke-width="2.6" stroke-linejoin="round"><path d="M17.3,10.0 L0.0,20.0 L-17.3,10.0 L-17.3,-10.0 L-0.0,-20.0 L17.3,-10.0 Z"/><path d="M17.3,10.0 L36.3,16.2 L48.1,0.0 L36.3,-16.2 L17.3,-10.0 Z"/><circle r="11.0" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/></g><circle cx="36.3" cy="-16.2" r="4.2" fill="#22D3EE"/></g><g class="m2"><g fill="none" stroke="#60A5FA" stroke-width="2.6" stroke-linejoin="round"><path d="M17.3,10.0 L0.0,20.0 L-17.3,10.0 L-17.3,-10.0 L-0.0,-20.0 L17.3,-10.0 Z"/><path d="M17.3,10.0 L36.3,16.2 L48.1,0.0 L36.3,-16.2 L17.3,-10.0 Z"/><circle r="11.0" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/></g><circle cx="36.3" cy="-16.2" r="4.2" fill="#22D3EE"/></g><g class="m3"><g fill="none" stroke="#A78BFA" stroke-width="2.6" stroke-linejoin="round"><path d="M17.3,10.0 L0.0,20.0 L-17.3,10.0 L-17.3,-10.0 L-0.0,-20.0 L17.3,-10.0 Z"/><path d="M17.3,10.0 L36.3,16.2 L48.1,0.0 L36.3,-16.2 L17.3,-10.0 Z"/><circle r="11.0" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/></g><circle cx="36.3" cy="-16.2" r="4.2" fill="#22D3EE"/></g><g class="m4"><g fill="none" stroke="#A78BFA" stroke-width="2.6" stroke-linejoin="round"><path d="M17.3,10.0 L0.0,20.0 L-17.3,10.0 L-17.3,-10.0 L-0.0,-20.0 L17.3,-10.0 Z"/><path d="M17.3,10.0 L36.3,16.2 L48.1,0.0 L36.3,-16.2 L17.3,-10.0 Z"/><circle r="11.0" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/></g><circle cx="36.3" cy="-16.2" r="4.2" fill="#22D3EE"/></g>
+<text x="975" y="34" text-anchor="end" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#6B7280">TRP SELF-ASSEMBLY</text>
+
+<!-- free-energy landscape -->
+<line x1="660" y1="404" x2="975" y2="404" stroke="#374151" stroke-width="1.5"/>
+<line x1="660" y1="290" x2="660" y2="404" stroke="#374151" stroke-width="1.5"/>
+<text x="642" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-style="italic" fill="#6B7280">G</text>
+<path class="cv" d="M660,390 C700,390 705,318 740,318 C772,318 780,365 810,365 C842,365 850,300 885,300 C915,300 925,385 975,392" fill="none" stroke="url(#cv)" stroke-width="3" stroke-linecap="round"/>
+<circle r="7" fill="#22D3EE" opacity=".95"><animateMotion dur="7s" repeatCount="indefinite" path="M660,390 C700,390 705,318 740,318 C772,318 780,365 810,365 C842,365 850,300 885,300 C915,300 925,385 975,392" keyPoints="0.06;0.06;0.45;0.92;0.92" keyTimes="0;0.15;0.45;0.7;1" calcMode="spline" keySplines=".6 0 .3 1;.6 0 .3 1;.6 0 .3 1;.6 0 .3 1"/></circle>
+</svg>
