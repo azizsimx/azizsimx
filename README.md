@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Senior%20Research%20Fellow-SNBNCBS%2C%20Kolkata-6A11CB?style=flat-square&labelColor=1E1B4B" alt="Senior Research Fellow at SNBNCBS" />
+  <img src="https://img.shields.io/badge/PhD%20Fellow-SNBNCBS%2C%20Kolkata-6A11CB?style=flat-square&labelColor=1E1B4B" alt="Senior Research Fellow at SNBNCBS" />
   <img src="https://img.shields.io/badge/Focus-Amyloid%20Aggregation%20%26%20Inhibition-2575FC?style=flat-square&labelColor=1E1B4B" alt="Focus" />
   <img src="https://img.shields.io/badge/INSPIRE-Fellow-4F46E5?style=flat-square&labelColor=1E1B4B" alt="INSPIRE Fellow" />
   <img src="https://komarev.com/ghpvc/?username=azizsimx&style=flat-square&color=2575FC&label=Profile+views" alt="Profile views" />
