@@ -1,3 +1,16 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Julian M. Kleber, sail.black: animated banner, molecule morphing into an agent network" src="assets/banner-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://julianmkleber.com"><img src="https://img.shields.io/badge/julianmkleber.com-FFB100?style=flat-square&logoColor=black" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/julian-manuel-kleber/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0001-5518-0932"><img src="https://img.shields.io/badge/ORCID-0000--0001--5518--0932-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://x.com/capjmk"><img src="https://img.shields.io/badge/X-@capjmk-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+</p>
+
+
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
 
