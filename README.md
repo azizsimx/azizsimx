@@ -1,4 +1,13 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Abdul Aziz Mandal, Computational (Bio)Physical Chemistry: animated banner, a molecule morphing into a network" src="assets/banner-light.svg" width="100%">
+</picture>
+<p align="center">
+  <a href="https://azizsimx.github.io/"><img src="https://img.shields.io/badge/azizsimx.github.io-6A11CB?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/abdul-aziz-mandal-804a48206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0007-1778-5261"><img src="https://img.shields.io/badge/ORCID-0009--0007--1778--5261-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://x.com/abdulazizmandal/"><img src="https://img.shields.io/badge/X-@abdulazizmandal-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <div align="center">
