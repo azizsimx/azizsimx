@@ -2,7 +2,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/trp_ml.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/trp.svg">
   <img alt="Abdul Aziz Mandal, Computational (Bio)Physical Chemistry: animated banner, a molecule morphing into a network" src="assets/banner-light.svg" width="100%">
 </picture>
 
